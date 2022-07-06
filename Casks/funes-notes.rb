@@ -1,7 +1,3 @@
-                                   formula.
-      --tap                        Generate the new formula within the given
-                                   tap, specified as user/repo.
-  -f, --force                      Ignore errors for disallowed formula names
 cask "funes-notes" do
   version "1.0.1"
   sha256 "8b0810d7ef44d214af7018bbb00990a0e6368b7bcb965f8dc61066114b7d2cf6"
