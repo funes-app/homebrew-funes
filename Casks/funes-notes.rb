@@ -1,6 +1,6 @@
 cask "funes-notes" do
-  version "1.0.1"
-  sha256 "8b0810d7ef44d214af7018bbb00990a0e6368b7bcb965f8dc61066114b7d2cf6"
+  version "1.0.2"
+  sha256 "f2248ac900072e7a05a8789e7e1570c909572cc8a0f8c979120ede6cb4937701"
 
   url "https://github.com/funes-app/FunesNotes/releases/download/v#{version}/FunesNotes.app.zip"
   name "Funes Notes"
